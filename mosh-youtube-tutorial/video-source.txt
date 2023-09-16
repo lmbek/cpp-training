@@ -1,0 +1,5 @@
+I already developed C++ before with cpp and h files (cpp classes), but since i want to become better at c++ i just ran the tutorial
+
+C++ Tutorial for Beginners - Learn C++ in 1 Hour
+Link to video
+https://www.youtube.com/watch?v=ZzaPdXTrSb8
